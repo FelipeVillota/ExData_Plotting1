@@ -1,6 +1,6 @@
 
 
-# Plot 3 :GLOBAL ACTIVE POWER
+# Plot 3 :
 
 ## load the data
 rm(list = ls())
